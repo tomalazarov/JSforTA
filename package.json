@@ -1,0 +1,14 @@
+{
+  "name": "practice13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Practice13.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Toma Lazarov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
