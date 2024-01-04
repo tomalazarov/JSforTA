@@ -1,0 +1,11 @@
+{
+  "name": "practice10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TL",
+  "license": "ISC"
+}
